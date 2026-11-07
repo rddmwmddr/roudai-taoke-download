@@ -8,7 +8,7 @@
 
 **[⬇ GitHub 下载](https://github.com/rddmwmddr/roudai-taoke-download/releases/latest/download/taoke-full.apk)**
 
-当前版本 1.3.0，要求 Android 10 及以上、64 位 ARM 手机。下载后在手机上打开安装包安装；系统提示「未知来源」时，按提示允许这一次安装。
+当前版本 1.3.1，要求 Android 10 及以上、64 位 ARM 手机。下载后在手机上打开安装包安装；系统提示「未知来源」时，按提示允许这一次安装。
 
 ![套壳效果](docs/hero.jpg)
 
@@ -26,7 +26,7 @@
 
 ## 校验
 
-- 安装包 SHA-256：`da719594fb3764f33facc720f2db9af1f8a59038b60b6c6dd34309b31616b91d`
+- 安装包 SHA-256：`76d73b2c658947a5cc79fc78367e6a73176911c88f481d5d1ecc6ba663c39cad`
 - 签名证书 MD5：`EB:91:B9:72:3E:A1:A8:A0:CD:10:D3:2B:F8:5A:47:27`
 
 北京阿花与阿喵文化发展有限公司
